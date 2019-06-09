@@ -1,5 +1,6 @@
+package main.java.com.designPatterns.Behavioral.StatePattern;
 
-public class Managemet implements Connection{
+public class Managemet implements Connection {
 
 	public void open() {
 		// TODO Auto-generated method stub

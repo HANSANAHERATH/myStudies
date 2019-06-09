@@ -1,4 +1,4 @@
-package com.
+package main.java.com.designPatterns.Behavioral.StatePattern;
 
 public class SatateDemo {
 

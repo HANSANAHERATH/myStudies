@@ -1,4 +1,4 @@
-package com.designPatterns.Creational.FactoryMethodPattern;
+package main.java.com.designPatterns.Creational.FactoryMethodPattern;
 
 public class CommersialPlan extends Plan {
 

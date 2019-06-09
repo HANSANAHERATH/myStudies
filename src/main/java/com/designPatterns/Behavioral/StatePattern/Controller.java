@@ -1,4 +1,4 @@
-package com.designPatterns.Behavioral.StatePattern;
+package main.java.com.designPatterns.Behavioral.StatePattern;
 
 public class Controller {
 	static Managemet management;

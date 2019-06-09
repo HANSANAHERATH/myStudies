@@ -1,4 +1,4 @@
-package com.designPatterns.Structural.AdapterPattern;
+package main.java.com.designPatterns.Structural.AdapterPattern;
 
 public interface CreditCard {
 	// Target
